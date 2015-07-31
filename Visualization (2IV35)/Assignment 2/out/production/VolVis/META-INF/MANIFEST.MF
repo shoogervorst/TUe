@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Class-Path: swing-layout-1.0.2.jar jogl-all-natives-linux-i586.jar jog
+ l-all-natives-linux-armv6hf.jar gluegen-rt-natives-linux-armv6hf.jar 
+ gluegen-rt-natives-linux-i586.jar gluegen-rt-natives-linux-armv6.jar 
+ gluegen-rt-natives-macosx-universal.jar jogl-all-natives-linux-amd64.
+ jar jogl-all.jar jogl-all-natives-solaris-amd64.jar gluegen-rt-native
+ s-windows-amd64.jar jogl-all-natives-windows-amd64.jar gluegen-rt.jar
+  gluegen-rt-natives-solaris-amd64.jar jogl-all-natives-macosx-univers
+ al.jar jogl-all-natives-windows-i586.jar gluegen-rt-natives-windows-i
+ 586.jar jogl-all-natives-linux-armv6.jar jogl-all-natives-solaris-i58
+ 6.jar gluegen-rt-natives-solaris-i586.jar gluegen-rt-natives-linux-am
+ d64.jar jtransforms-2.3.jar swing-layout-1.0.2.jar
+Main-Class: gui.VolVisApplication
+
